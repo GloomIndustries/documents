@@ -1,0 +1,3 @@
+Style Guide:
+	- https://vimeo.com/86057182
+	- https://github.com/airbnb/javascript/tree/es5-deprecated/es5
