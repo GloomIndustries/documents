@@ -1,0 +1,11 @@
+Testing template for node
+https://github.com/onexi/exercise-template-node
+
+Testing template for browser
+https://github.com/onexi/exercise-template-browser
+
+Testing template video explantion
+https://www.youtube.com/watch?v=fTAe3WoMZaY
+
+Browser testing using Phantom
+https://www.youtube.com/watch?v=bcc82cpRdK4
