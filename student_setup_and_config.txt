@@ -1,0 +1,41 @@
+----------------
+EDITOR SETUP
+----------------
+Sublime Text Setup: Mac                 
+https://www.youtube.com/watch?v=ENewq-0DI-U
+
+Sublime Text Setup: PC
+https://www.youtube.com/watch?v=hw98AiAz40A
+
+VS Code Setup: Mac
+https://www.youtube.com/watch?v=fjeGUxDPv6o
+
+VS Code Setup: PC
+https://www.youtube.com/watch?v=G_C9Wd6dKK0
+
+
+----------------
+GITHUB SETUP
+----------------
+Github Setup: Mac
+https://www.youtube.com/watch?v=WhPXbB-oYI0
+
+Github Setup: PC
+https://www.youtube.com/watch?v=ec9NG7SlOSc
+
+
+----------------
+GITHUB CYCLE
+----------------
+Github Cycle: fork -> clone -> add -> push -> pull request                 
+https://www.youtube.com/watch?v=D-veYWZGhkE
+
+
+----------------
+TEST SETUP
+----------------
+Testing Setup: Mac      
+https://www.youtube.com/watch?v=N96RXeI_eHE
+
+Testing Setup: PC
+https://www.youtube.com/watch?v=OtxtCo6awTo
